@@ -1,0 +1,117 @@
+
+/*头部*/
+.wap {
+    width: 89.58333333%;
+    height: 100%;
+    margin: 0 auto;
+}
+.log {
+    height: 9.53288847%;
+    background: url(../images/ylogo_07.png) no-repeat right bottom;
+}
+.log .logo_title {
+    display: inline-block;
+    width: 4.65116279%;
+    height: 81%;
+    padding-top: 1%;
+}
+.log .logo_title img {
+    width: 100%;
+    height: 100%;
+}
+/*中间的部分*/
+.content {
+    height: 74.83317445%;
+}
+.enter_img {
+    height: 52.22929936%;
+    padding: 3.19767442% 0 3.77906977% 0;
+}
+.content_title {
+    height: 4.07643312%;
+    font-size: 30px;
+    padding: 1.62790698% 0 2.84883721% 0;
+    background: url("../images/Culture.png") no-repeat 0 80%;
+}
+.content_tab {
+    height: 14.14012739%;
+}
+.content_tab li {
+    float: left;
+    width: 1.5%;
+    border: 1px solid #000;
+    text-align: center;
+    padding:5px 0;
+    font-size:18px;
+    margin-right: 1.42993327%;
+}
+.content_tab li:hover {
+    background:#006cae;
+    border:1px solid #006cae;
+    color:#fff;
+}
+.content_tab li.act_list {
+    background:#006cae;
+    border:1px solid #006cae;
+    color:#fff;
+}
+/*列表切换-----*/
+.tab {
+    height: 7.62631077%;
+}
+.tab_content {
+    height: 100%;
+}
+.tab_content li {
+    float: left;
+    width: 9.30232558%;
+    height: 100%;
+    text-align: left;
+    font-size: 16px;
+}
+.tab_content .active {
+    width: 70%;
+    padding-left: 30%;
+    background: url(../images/xtp_07.png) no-repeat -15px 0px;
+}
+.tab_content a {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+}
+.tab_content a:hover {
+    width: 70%;
+    padding-left: 30%;
+    background: url(../images/xtp_07.png) no-repeat -15px 0px;
+}
+.tab_content a span {
+    position: absolute;
+    bottom: 36px;
+}
+.tab_content a div {
+    position: absolute;
+    bottom: 20px;
+    color: red;
+}
+/*底部----------------*/
+.footer {
+    height: 5.91039085%;
+    font-size: 14px;
+    color: #727272;
+    padding-top: 1.1627907%;
+}
+
+
+
+
+
+/*黑灰背景布局---*/
+.produnct_left{
+    width:47%;
+    padding-right:4%;
+}
+.produnct_right{
+    width:49%;
+    text-align:center;
+}

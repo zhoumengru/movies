@@ -1,0 +1,139 @@
+/*
+* @Author: Marte
+* @Date:   2016-12-08 16:02:51
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-12-12 17:32:55
+*/
+
+/*云端作品页-----------------------------------*/
+.content_movers{
+    display:none;
+}
+.content_movers{
+    height:100%;
+}
+.content_movers h3{
+    width:2%;
+    padding-left:7%;
+}
+.movers_list{
+    height:80%;
+    width:91%;
+
+}
+.movers_list li{
+    float:left;
+    width:1%;
+    padding:0 1%;
+    height:90%;
+    position:relative;
+
+}
+.movers_list li:nth-of-type(1):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:0;
+
+}
+.movers_list li:nth-of-type(2):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:50px;
+
+}
+.movers_list li:nth-of-type(3):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:30px;
+
+}
+.movers_list li:nth-of-type(4):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:15px;
+
+}
+.movers_list li:nth-of-type(5):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:0;
+}
+.movers_list li:nth-of-type(6):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:15px;
+}
+.movers_list li:nth-of-type(7):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:30px;
+}
+.movers_list li:nth-of-type(8):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:0px;
+}
+.movers_list li:nth-of-type(9):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:15px;
+}
+.movers_list li:nth-of-type(10):after{
+    content:"";
+    border-left:1px dotted #000;
+    height:100%;
+    width:2px;
+    position:absolute;
+    left:3px;
+    top:30px;
+}
+.movers_list a{
+    position:absolute;
+    top:50%;
+    width:1%;
+    transform:translate(0,-50%);
+}
+.movers_list a:hover{
+    color:#006cae;
+}
+
+
+
+
+

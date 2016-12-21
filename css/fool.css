@@ -1,0 +1,12 @@
+.news {
+  width: 100%;
+}
+.news li {
+  width: 32.26744186%;
+  height: 33.62369338%;
+  float: left;
+  color: #34495e;
+}
+.news li a dl {
+  color: #34495e;
+}

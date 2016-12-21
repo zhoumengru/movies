@@ -1,0 +1,100 @@
+.enter_img div {
+  float: left;
+}
+.enter_img .Img1 {
+  width: 22.6744186%;
+  height: 100%;
+}
+.enter_img .Img2 {
+  width: 20.05813953%;
+  height: 100%;
+}
+.enter_img .Img2 div {
+  width: 100%;
+  height: 49%;
+}
+.enter_img .Img2 .mg {
+  margin-bottom: 6px;
+}
+.enter_img img {
+  width: 100%;
+  height: 100%;
+}
+.enter_cont {
+  width: 65%;
+}
+.enter_cont p {
+  margin-bottom: 15px;
+}
+.wenhua {
+  height: 184px;
+  width: 56.86046512%;
+  position: relative;
+}
+.wenhua::before {
+  content: "";
+  border: 1px solid #3f5664;
+  width: 100%;
+  display: block;
+  position: absolute;
+  bottom: -3%;
+}
+.wenhua li {
+  float: left;
+  border-radius: 50%;
+  width: 14%;
+  height: 100px;
+  padding-top: 40px;
+  text-align: center;
+  border: 2px solid #3f5664;
+  margin-right: 10%;
+  position: relative;
+  background: #3f5664;
+  color: #fff;
+  font-size: 18px;
+}
+.wenhua .active {
+  background: #fff;
+  color: #3f5664;
+}
+.wenhua .active::after {
+  content: "";
+  border: 1px solid #3f5664;
+  height: 46px;
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+}
+.wenhua li:hover {
+  background: #fff;
+  color: #3f5664;
+}
+.wenhua li:hover::after {
+  content: "";
+  border: 1px solid #3f5664;
+  height: 46px;
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+}
+.wenhua li span {
+  display: block;
+}
+.wenhua_c {
+  padding: 10px;
+  width: 54.65116279%;
+}
+.news {
+  width: 100%;
+}
+.news li {
+  width: 32.26744186%;
+  height: 33.62369338%;
+  float: left;
+  color: #34495e;
+}
+.news li a dl {
+  color: #34495e;
+}
